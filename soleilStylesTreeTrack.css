@@ -1,0 +1,112 @@
+body{
+    font-family: monospace;
+    font-size: 20px;
+    text-align:center;
+    color: white;
+    background-color: #da5a01;
+    background-image: url('soleilStripes.jpg');
+}
+
+
+table{
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    border: 2px solid white;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    border: 2px solid white;
+    padding: 5px;
+    text-align: center;
+    background-color: #da5a01;
+}
+.tt{
+    background-color: #b8540c;
+}
+.ttt{
+    background-color: #ee883f;
+}
+.tttbest{
+    background-color: #bd5206;
+    color: black;
+}
+.tttworst{
+    background-color: #ffd4b5;
+    color: black;
+}
+.best{
+    background-color: #ee883f;
+    color:black;
+}
+.worst{
+    background-color: white;
+    color:black;
+}
+
+
+div{
+    border: 7px solid white;
+    padding: 10px;
+    width: fit-content;
+    height: fit-content;
+}
+.soleilDiv{
+    background-color: black;
+}
+.tiles{
+    display: inline-block;
+}
+
+
+.topImgDiv{
+    flex: 50%;
+    padding: 5px;
+    border: none;
+}
+#profile{
+    border: none;
+    display: flex;
+}
+#pfp{
+    height: 50%;
+    width: 50%;
+}
+.track{
+    height: 50%;
+    width: 50%;
+    margin: 2px;
+}
+#tree{
+    border: #bd5206 10px solid;
+}
+img{
+    border: 10px solid black;
+}
+
+
+h1,h2{
+    background-color: black;
+}
+
+
+.achieve{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px double white;
+}
+.achievementLinks{
+    color:white;
+    text-decoration: none;
+    background-color: #b8540c;
+}
+/*
+this is for a complete achievement
+#tenMin{
+    background-color: #ee883f;
+    border: 4px double #ee883f;
+}*/

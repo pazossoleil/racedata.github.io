@@ -1,0 +1,58 @@
+body{
+    font-family: monospace;
+    font-size: 20px;
+    text-align:center;
+    color: white;
+    background-color: #e1f095;
+    background-image: url('serenaPolkaDot.jpg');
+}
+
+
+table{
+    border: 2px solid #f2b1d0;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    border: 2px solid #f2b1d0;
+    padding: 5px;
+    text-align: center;
+}
+th{
+    border: 2px solid #f2b1d0;
+    padding: 5px;
+    text-align: center;
+    background-color: #ace6ac;
+}
+
+
+div{
+    border: 7px solid white;
+    padding: 10px;
+    width: fit-content;
+    height: fit-content;
+}
+.theDiv{
+    background-color: #bae5f7;
+}
+.tiles{
+    display: inline-block;
+}
+
+
+h1{
+    background-color: #bae5f7;
+}
+
+
+.achieve{
+    background-color: #f2b1d0;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px double #f2b1d0;
+}
+.achievementLinks{
+    color:white;
+    text-decoration: none;
+    background-color: #e1f095;
+}

@@ -1,0 +1,39 @@
+body{
+    font-family: monospace;
+    background-image: linear-gradient(to right, #faa569 , #80d8fd);   
+    text-align: center;
+    color:white;
+}
+
+div{
+    border: white solid 2px;
+    display: inline-block;
+    padding: 20px;
+    width: 30vw;
+    height: 30vw;
+}
+h1{
+    font-size: 110px;
+}
+
+#serena{
+    background-image: url('serenaPolkaDot.jpg');
+    font-size: 100px;
+}
+#serenaA{
+    background-color: #ace6ac;
+    color:#f2b1d0;
+    text-decoration: none;
+    border: #bae5f7 solid 8px;
+}
+
+#soleil{
+    background-image: url('soleilStripes.jpg');
+    font-size: 100px;
+}
+#soleilA{
+    background-color: white;
+    color:black;
+    text-decoration: none;
+    border: #ee883f solid 8px;
+}
